@@ -1,4 +1,4 @@
-<h3>Sistema de potencia fora do padrão</h3>
+<h3>Sistema de potência fora do padrão</h3>
 
 <h5>Sistema simples a ser utilizado para registro de tentativas de contato com clientes em que apresentam potencia óptica fora de seu padrão ideal em provedores de conexão a internet que utilizam esta técnologia. A aplicação serve de apoio para sistemas ERP de provedores para que seja feito o registro de tentativa de conexão com clientes de forma simplificada em que armazenará no banco de dados apenas as informações do tipo de contato, ocorrencia e potencia após reparo.</h5>
 
